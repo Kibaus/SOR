@@ -1,4 +1,5 @@
-# Shadows Of Redepmtion - Isometric Dungeon Crawler
+# Shadows Of Redepmtion 
+Isometric Dungeon Crawler
 
 Infograph:
 A Ongoing project serving as a prototype and practice base, all things, events, scripts and mechanics based on 3D isometric dungeon crawlers
